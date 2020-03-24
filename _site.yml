@@ -1,9 +1,10 @@
-name: "Simple"
+name: "my-website"
 navbar:
-  tittle: "Simple"
+  title: "My Website"
   left:
-  - text: "About Me"
-   href:index.html
-  - text: "Case Study"
-   href:Beer_RMarkdown_Code.html
+    - text: "Home"
+      href: index.html
+    - text: "Case Study"
+      href: Beer_RMarkdown_Code.html
+
    
