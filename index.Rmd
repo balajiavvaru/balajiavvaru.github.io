@@ -1,0 +1,11 @@
+---
+title: "Simple website"
+author: "Balaji Avvaru"
+date: "3/24/2020"
+output: html_document
+---
+
+# This is simple website
+## Note: the 6 lines of text above are the YAML tags
+### We will knit this RMD to a html file next
+then puch index.html to git repo
