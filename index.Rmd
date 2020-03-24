@@ -1,11 +1,22 @@
 ---
-title: "Simple website"
-author: "Balaji Avvaru"
-date: "3/24/2020"
-output: html_document
+title: "Simple"
 ---
 
-#Balaji Avvaru
-#I am from India, currently residing in Seattle, Washington  
-#I work for State of Washington
-#I completed Master of Engineering from Birla Institute of Technology and Science(BITS)
+This is Balaji Avvaru.   
+I am from India, currently residing in Seattle, Washington.     
+I work for State of Washington as Lead Developer.   
+I completed Master of Engineering from Birla Institute of Technology and Science(BITS)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+“The other tabs represent work / analyses that I have completed.  Please check them out!”

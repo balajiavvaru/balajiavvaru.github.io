@@ -1,6 +1,6 @@
 ---
 title: "Case_Study_EDA"
-author: "Aurian Ghaemmaghami"
+author: "Balaji Avvaru"
 date: "2/22/2020"
 output:
   html_document: default
