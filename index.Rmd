@@ -8,4 +8,4 @@ output: html_document
 # This is simple website
 ## Note: the 6 lines of text above are the YAML tags
 ### We will knit this RMD to a html file next
-then puch index.html to git repo
+then push index.html to git repo
