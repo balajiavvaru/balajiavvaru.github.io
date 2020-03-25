@@ -1,7 +1,7 @@
 name: "my-website"
 navbar:
   title: "My Website"
-  left:
+  top:
     - text: "About Me"
       href: index.html
     - text: "Case Study"
