@@ -1,0 +1,8 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: Index.html
+    - text: "Case Study"
+      href: Beer_RMarkdown_Code.html
