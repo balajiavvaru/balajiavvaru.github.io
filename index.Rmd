@@ -1,0 +1,19 @@
+---
+title: "simple project"
+output: html_document
+---
+
+This is Balaji Avvaru.
+I am from India, currently resident of Seattle, Washington.
+I work for State of Washington as Lead Developer.
+I completed Master of Engineering from Birla Institute of Technology and Science(BITS)
+
+
+
+
+<br>
+<br>
+<br>
+
+
+“The other tabs represent work / analyses that I have completed. Please check them out!”
